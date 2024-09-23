@@ -3,4 +3,8 @@ Topic:
 
 2. Simulation on s-parameter using ADS software. https://www.youtube.com/watch?v=Cu0UxYl9dJ0
 
-3. Text Book: RF Microelectronics by Behzad Razavi
+3. Text Book:
+    a. RF Microelectronics by Behzad Razavi
+
+4. Design RF convertor:
+    a. Digital Down converter (DDC)/Digital Up Converter (DUC)
