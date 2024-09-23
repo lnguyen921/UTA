@@ -14,3 +14,5 @@ To:
     https://www.youtube.com/watch?v=Ffhs9Ny03lM
 
 2. Lecture 1: intro to RF circuit design
+
+3. VSWR conversion to S11
