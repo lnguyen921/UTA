@@ -8,3 +8,9 @@ Topic:
 
 4. Design RF convertor:
     a. Digital Down converter (DDC)/Digital Up Converter (DUC)
+
+To:
+1. Resolution BW vs Video VW
+    https://www.youtube.com/watch?v=Ffhs9Ny03lM
+
+2. Lecture 1: intro to RF circuit design
