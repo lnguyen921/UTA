@@ -12,6 +12,9 @@ Topic:
     Source: https://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course
     a. https://www.youtube.com/watch?v=Hw5IaS6-Fzw&list=PLUJAYadtuizA8RC2Qk8LfmiWA56HZsk9y
 
+6. Building a small radar system to measure range, doppler and radar imaging.
+    Source: https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/#:~:text=MIT%20Lincoln%20Laboratory%20offers%20this%203-week%20course%20in%20the%20design
+
    
 To do:
 1. Resolution BW vs Video VW
