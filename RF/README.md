@@ -8,7 +8,11 @@ Topic:
 
 4. Design RF convertor:
     a. Digital Down converter (DDC)/Digital Up Converter (DUC)
+5. Radar Systems course by MIT:
+    Source: https://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course
+    a. https://www.youtube.com/watch?v=Hw5IaS6-Fzw&list=PLUJAYadtuizA8RC2Qk8LfmiWA56HZsk9y
 
+   
 To do:
 1. Resolution BW vs Video VW
     https://www.youtube.com/watch?v=Ffhs9Ny03lM
