@@ -1,0 +1,17 @@
+What is attenuation?
+  - Reduction of a signal's strength or intensity as it passes through a medium.
+  - The goal is add attenuation as it will increate stability.
+
+Why attenuation after amplification?
+  - Prevent compression later in the chain in cases where you have a varying input level.
+  - Goal is to have circuit remain linear and avoid NF degradation.
+  - Reduces signal level and noise by the same factor because noise added in the first stage is impossible to reduce later in the system.
+  - Noise is also added from the attenuator compoenent(mostly thermal)
+
+Attenuation after amplification?
+  - Amplifier can be unstable with certain loads which result in power reflected back to amplifier. 
+  
+
+What is casecaded noise figure? How is this related to attenuation and amplification? 
+  - reduce ripple caused by impedance mismatch over a wide bandwidth so it's always on the input of a power meter.
+  
